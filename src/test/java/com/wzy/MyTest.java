@@ -18,5 +18,6 @@ public class MyTest {
         //proxy.doSome("zs", 6);
 
         proxy.doOther("ls", 8);
+        System.out.println("使用git进行管理");
     }
 }
