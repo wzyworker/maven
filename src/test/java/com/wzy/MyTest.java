@@ -23,5 +23,6 @@ public class MyTest {
         System.out.println("在hot-fix进行正常合并");
         System.out.println("在master进行冲突合并");
         System.out.println("在hot-fix进行冲突合并");
+        System.out.println("推送到远程库");
     }
 }
