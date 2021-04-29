@@ -21,5 +21,7 @@ public class MyTest {
         System.out.println("使用git进行管理");
         System.out.println("使用git进行版本更迭");
         System.out.println("在hot-fix进行正常合并");
+        System.out.println("在hot-fix进行冲突合并");
     }
 }
+ 
