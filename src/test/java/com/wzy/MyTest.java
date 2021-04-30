@@ -25,5 +25,6 @@ public class MyTest {
         System.out.println("在hot-fix进行冲突合并");
         System.out.println("推送到远程库");
         System.out.println("从远程库拉取");
+        System.out.println("尝试忽略文件");
     }
 }
